@@ -39,4 +39,8 @@ Kodi/XBMC bash script to send Kodi commands using JSON RPC. It also allows sendi
 for the "-o" option to work you'll need to install [mps-youtube](https://github.com/np1/mps-youtube)
 
 #Version
-1.1
+1.2
+
+#Release Notes
+1.2
+ - Added options for specifying kodi host, port, user and password
